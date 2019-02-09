@@ -1,0 +1,38 @@
+Sample Code
+Written By: Andrew Robert Owens
+Copyright (c) 2017
+
+Animations written by Rukiya Hassan
+
+CPSC587F17 Animaiton
+
+== CONTROLS ==
+w                   : move forward
+s                   : move backward
+a                   : strife left
+d                   : strife right
+q                   : move up
+e                   : move down
+
+arrow left			: rotate to the left
+arrow right			: rotate to the right
+arrow up			: rotates camera up
+arrow down			: rotates camera down
+shift+arrow left	: roll camera left
+shift+arrow right	: roll camera right
+
+space bar			: pause/play
+esc					: exit
+
+--- Extra Controls ---
+
+f					: toggle follow mouse
+
+
+--- parameters.txt ---
+
+number of "prey (regular)" boids;	default = 500
+number of "predator" boids; 		default = 2
+field of view;						default = 270
+size of border;						default = 300
+radius for following;				default = 80;
